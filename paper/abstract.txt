@@ -1,0 +1,7 @@
+this paper presents a novel interpretation of the wavefuntion collapse grounded in quantumm information theory.
+we propose that collapse is not triggered by observation itself , but by a quantized increase in a system's informational entropy.
+Specifically, we introduce a threshold condition: collapse occurs only when the von Neumann entropy of the system exceeds a critical value, δIc, due to entanglement with the environment
+This reframing allows wavefunction collapse to be understood as an objective, testable process driven by entropy flow, rather than subjective measurement
+We formalize this framework using mathematical postulates and simulate its behavior in canonical quantum setups, including the double-slit experiment, spin measurement, and Schr¨odinger’s cat.
+The model not only aligns with known phenomena but also makes falsifiable predictions—suggesting that collapse is conditional and occurs only beyond an entropy threshold.
+This provides a new lens on the quantum measurement problem and opens experimental paths for validating information-induced collapse.
