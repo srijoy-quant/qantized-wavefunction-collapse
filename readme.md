@@ -11,7 +11,7 @@ Collapse is predicted to occur when the system’s entropy gain from entanglemen
 
 ## 📄 Contents
 
-- Full paper (`paper/collapse_model.pdf`)
+- Full paper (`paper/collapse_of_a_wave_function .pdf`)
 - Jupyter notebooks for three canonical quantum systems:
   - Double-slit interference
   - Spin measurement
