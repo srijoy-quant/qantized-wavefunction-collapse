@@ -7,7 +7,7 @@
 ## 🧠 Summary
 
 This project proposes a new, falsifiable model of quantum wavefunction collapse based on entropy thresholds.  
-Collapse is predicted to occur when the system’s entropy gain from entanglement exceeds a quantized threshold, typically \( \delta I_c = \log 2 \).
+Collapse is predicted to occur when the system’s entropy gain from entanglement exceeds a quantized threshold, typically.
 
 ## 📄 Contents
 
