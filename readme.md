@@ -31,6 +31,7 @@ Simulations were built using Python + QuTiP. Notebooks are fully runnable via [G
 ## ✅ Status
 
 - Submitted to arXiv (quant-ph)
+- currently pending endorsement
 - Preparing for journal submission
 
 ---
